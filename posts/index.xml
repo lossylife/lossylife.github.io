@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on lossy.life</title>
+    <link>https://lossy.life/posts/</link>
+    <description>Recent content in Posts on lossy.life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Dec 2020 23:32:53 +0800</lastBuildDate><atom:link href="https://lossy.life/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Night</title>
+      <link>https://lossy.life/posts/the-night/</link>
+      <pubDate>Wed, 16 Dec 2020 23:32:53 +0800</pubDate>
+      
+      <guid>https://lossy.life/posts/the-night/</guid>
+      <description>今天晚上睡觉，开了一会空调加热房间，睡前就关了，省钱小能手的小日子。</description>
+    </item>
+    
+  </channel>
+</rss>
